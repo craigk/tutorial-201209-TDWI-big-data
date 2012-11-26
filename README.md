@@ -11,6 +11,7 @@ This repository has three main directories:
 * **bin** -- scripts to populate and clear HDFS
 * **config** -- instructions and configuration files to set up the Cloudera demo VM for the tutorial
 * **R** -- all the R code we will work through
+* **rmr2** -- updated code for rmr2
 * **data** -- sample data 
 * **presentation** -- slide decks, etc.
 
